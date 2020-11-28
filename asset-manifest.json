@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/w22-react-blog/static/js/main.f4d3cb5e.chunk.js",
+    "main.js.map": "/w22-react-blog/static/js/main.f4d3cb5e.chunk.js.map",
+    "runtime-main.js": "/w22-react-blog/static/js/runtime-main.eb342bd4.js",
+    "runtime-main.js.map": "/w22-react-blog/static/js/runtime-main.eb342bd4.js.map",
+    "static/js/2.4601dace.chunk.js": "/w22-react-blog/static/js/2.4601dace.chunk.js",
+    "static/js/2.4601dace.chunk.js.map": "/w22-react-blog/static/js/2.4601dace.chunk.js.map",
+    "index.html": "/w22-react-blog/index.html",
+    "static/js/2.4601dace.chunk.js.LICENSE.txt": "/w22-react-blog/static/js/2.4601dace.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb342bd4.js",
+    "static/js/2.4601dace.chunk.js",
+    "static/js/main.f4d3cb5e.chunk.js"
+  ]
+}
