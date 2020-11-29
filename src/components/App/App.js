@@ -33,7 +33,7 @@ function App() {
     <AuthContext.Provider value={{ user, setUser }}>
       <Root>
         <LoadingContext.Provider value={{ isLoading, setIsLoading }}>
-          <Router>
+          <Router basename="/w22-react-blog">
             <Header />
             <Switch>
               <Route exact path="/">
