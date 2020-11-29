@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/w22-react-blog/static/js/main.f4d3cb5e.chunk.js",
-    "main.js.map": "/w22-react-blog/static/js/main.f4d3cb5e.chunk.js.map",
+    "main.js": "/w22-react-blog/static/js/main.ca3d945d.chunk.js",
+    "main.js.map": "/w22-react-blog/static/js/main.ca3d945d.chunk.js.map",
     "runtime-main.js": "/w22-react-blog/static/js/runtime-main.eb342bd4.js",
     "runtime-main.js.map": "/w22-react-blog/static/js/runtime-main.eb342bd4.js.map",
     "static/js/2.4601dace.chunk.js": "/w22-react-blog/static/js/2.4601dace.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.eb342bd4.js",
     "static/js/2.4601dace.chunk.js",
-    "static/js/main.f4d3cb5e.chunk.js"
+    "static/js/main.ca3d945d.chunk.js"
   ]
 }
